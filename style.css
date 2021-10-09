@@ -1,0 +1,17 @@
+body
+{
+    background: lightgray;
+    color: darkblue;
+}
+
+img
+{
+    width: 310px;
+    height: 400px;
+    border-radius: 25px;
+}
+
+.mini_result
+{
+    margin-right: 230px;
+}
